@@ -28,7 +28,7 @@
 }
 
 body {
-    background-image: url("/images/donuts.jpeg");
+    background-image: url("images/donuts.jpeg");
     background-size: cover;
     color: #ffffffde
 }
